@@ -39,10 +39,15 @@ Perfect for community managers, educators, or anyone curious about engagement tr
 
 ---
 
-## 🛠️ Installation
+# 🛠️ Installation
 
-1. **Clone** this repository  
-   ```bash
-   git clone https://github.com/shovanroyUSA/WhatsAppChatAnalyzer.git
+## Prepare your WhatsApp export
+
+Export your group chat (Android: ⋯ → More → Export chat)
+
+Place the resulting WhatsApp Chat with … .txt file in this folder and rename it to:
+   ```python
+   _chat.txt
+
  
 
